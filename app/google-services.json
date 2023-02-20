@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "857274710225",
+    "firebase_url": "https://cast-video-a9eb2-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "cast-video-a9eb2",
+    "storage_bucket": "cast-video-a9eb2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:857274710225:android:cefd39ff9f094a0088edf0",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "857274710225-pfg3m2gsglua6qdoaaducns0lpif4ce4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnYvwcYb5vkmwUg7yrIBQ6ptdusW_BkyM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "857274710225-pfg3m2gsglua6qdoaaducns0lpif4ce4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
